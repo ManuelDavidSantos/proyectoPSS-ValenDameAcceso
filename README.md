@@ -1,5 +1,5 @@
 # proyectoPSS
-Asegurarse de hacer no romper cambios antes de hacer push
+Asegurarse de hacer no romper cambios antes de hacer push, hacer pull o mandar un pr
 
 # Otorgar permisos
 
